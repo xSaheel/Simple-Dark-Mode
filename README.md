@@ -4,5 +4,5 @@
 
 ### Used npm react-switch for implementing toggle
 
-### `npm start` to run on http:/localhost:3000
+### `npm start` to run on http://localhost:3000
 
