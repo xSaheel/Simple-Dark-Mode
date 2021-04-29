@@ -1,8 +1,8 @@
 # Dark Mode
 
-## Simple Dark Mode / Light Mode toggle implementation using ReactJS
+### Simple Dark Mode / Light Mode toggle implementation using ReactJS
 
-## Used npm react-switch for implementing toggle
+### Used npm react-switch for implementing toggle
 
-## `npm start` to run on http:/localhost:3000
+### `npm start` to run on http:/localhost:3000
 
